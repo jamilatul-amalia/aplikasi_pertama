@@ -1,21 +1,21 @@
 # aplikasi_pertama
 
-A new Flutter project.
+## Deskripsi & Tujuan
+Aplikasi latihan dasar pemrograman mobile menggunakan Flutter untuk mencatat dan mengelola tugas praktikum.
 
-## Getting Started
+## Pengembang
+* **Nama**: Jamilatul Amalia
+* **Akun GitHub**: jamilatul-amalia
 
-This project is a starting point for a Flutter application.
+## Rencana Fitur
+1. Analisis Aplikasi
+2. Manajemen Panduan Proyek
+3. Dokumentasi Praktikum
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Tugas Praktikum Modul 2 - Git & GitHub
-Nama: Jamilatul Amalia
-NIM: (isi nim kamu)
+## Cara Menjalankan
+1. Pastikan Flutter SDK sudah terpasang.
+2. Buka terminal di folder proyek ini.
+3. Jalankan perintah:
+   ```bash
+   flutter pub get
+   flutter run
